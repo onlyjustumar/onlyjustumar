@@ -12,6 +12,8 @@ I build software that connects generative AI, backend services, databases, and u
 
 My professional work includes AI-assisted media workflows, prompt processing, and automation for content production. Company-owned repositories are private; proprietary source code and internal implementation details are not shared here.
 
+**[Explore my professional engineering portfolio →](./PROFESSIONAL-PORTFOLIO.md)**
+
 This profile focuses on publicly available projects and technical interests. I can discuss my individual responsibilities and demonstrate approved work during interviews.
 
 ## Selected public repositories
